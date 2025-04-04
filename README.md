@@ -12,4 +12,8 @@ JQCollector is a collection of DSA questions, ranging from beginner to advanced 
  1.  Pseudocode and Basic Questions.
  2.  Array/- Questions related to array manipulation and optimization.
 
+ ## 🚀 How to Use
+
+1. <Explore>  the categorized folders for specific topics
+2. Contribute by adding new questions and solutions.
 
