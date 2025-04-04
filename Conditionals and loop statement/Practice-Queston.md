@@ -1,6 +1,8 @@
 ## 🔗Write Java programs for the following:-
 
 
+
+# Basic
 1. Area Of Circle Java Program
 2. Area Of Triangle
 3. Area Of Rectangle Program
