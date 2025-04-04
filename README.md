@@ -14,6 +14,15 @@ JQCollector is a collection of DSA questions, ranging from beginner to advanced 
 
  ## 🚀 How to Use
 
-1. <Explore>  the categorized folders for specific topics
+1. Explore the categorized folders for specific topics
 2. Contribute by adding new questions and solutions.
+3. Discuss and share insights by opening issues or discussions.
+4. Practice regularly for coding interviews or competitions.
 
+## 💡 Contribution
+ 
+ Feel free to contribute by submitting pull requests! Follow the structured format for adding new questions and solutions.
+
+ ## 🔗 Useful Resources
+ 
+ 
