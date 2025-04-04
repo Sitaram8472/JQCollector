@@ -32,7 +32,7 @@ JQCollector is a collection of DSA questions, ranging from beginner to advanced 
 
 <!-- help -->
 
-# 🚀 JQCollector  
+<!-- # 🚀 JQCollector  
 **Your ultimate collection of Data Structures & Algorithms (DSA) questions!**  
 A well-organized repository for coding enthusiasts, interview prep, and competitive programmers.
 
@@ -59,6 +59,6 @@ It helps learners **practice, understand, and master** fundamental & advanced al
 ---
 
 This format ensures your repository is **clear, interactive, and accessible** for users. 🚀  
-You can further modify it to match your vision! Want me to add anything special? ✨  
+You can further modify it to match your vision! Want me to add anything special? ✨   -->
 
 
