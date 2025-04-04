@@ -1,4 +1,4 @@
-## Write programs for the following:-
+# Write programs for the following:-
 
 1. Write a program to print whether a number is even or odd, also take input from the user.
 2. Take name as input and print a greeting message for that particular name.
