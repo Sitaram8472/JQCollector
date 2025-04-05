@@ -7,7 +7,7 @@ A comprehensive repository for Data Structures and Algorithms (DSA) questions, c
 
 JQCollector is a collection of DSA questions, ranging from beginner to advanced levels. Whether you're brushing up on foundational concepts or tackling challenging algorithmic problems, this repository serves as a resource hub for students, professionals, and coding enthusiasts.
 
- # 🏗 Structur
+ # 🏗 Structure
 
  1.  Pseudocode and Basic Questions.
  2.  Basic Question
@@ -25,7 +25,11 @@ JQCollector is a collection of DSA questions, ranging from beginner to advanced 
  
  Feel free to contribute by submitting pull requests! Follow the structured format for adding new questions and solutions.
 
- # 🔗 Useful Resources
+ # 🔗📚  Useful Resources 
+- [LeetCode](https://leetcode.com/)  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)  
+- [Codeforces](https://codeforces.com/)  
+- [Hackerrank](https://www.hackerrank.com/)  
  
  
 
