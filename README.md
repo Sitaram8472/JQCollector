@@ -1,6 +1,6 @@
 # 🚀💻 JQCollector
 
-A comprehensive **repository** for Data Structures and Algorithms (DSA) questions, carefully curated to aid learning, problem-solving, and interview preparation.
+A comprehensive **repository** for **Data Structures and Algorithms** (DSA) questions, carefully curated to aid learning, problem-solving, and interview preparation.
 
 
  # 📌 About
