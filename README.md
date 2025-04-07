@@ -1,6 +1,6 @@
 # 🚀💻 JQCollector
 
-A comprehensive repository for Data Structures and Algorithms (DSA) questions, carefully curated to aid learning, problem-solving, and interview preparation.
+A comprehensive **repository** for Data Structures and Algorithms (DSA) questions, carefully curated to aid learning, problem-solving, and interview preparation.
 
 
  # 📌 About
@@ -30,6 +30,7 @@ JQCollector is a collection of DSA questions, ranging from beginner to advanced 
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)  
 - [Codeforces](https://codeforces.com/)  
 - [Hackerrank](https://www.hackerrank.com/)  
+
  
  
 
