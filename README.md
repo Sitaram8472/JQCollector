@@ -1,25 +1,28 @@
 # 🚀💻 JQCollector
 
-A comprehensive **repository** for **Data Structures and Algorithms** (DSA) questions, carefully curated to aid learning, problem-solving, and interview preparation.
+A comprehensive **repository** for **Data Structures and Algorithms** (DSA) questions, carefully curated to aid learning, problem-solving, and strong Basic fundamental.
 
 
  # 📌 About
 
-JQCollector is a collection of DSA questions, ranging from beginner to advanced levels. Whether you're brushing up on foundational concepts or tackling challenging algorithmic problems, this repository serves as a resource hub for students, professionals, and coding enthusiasts.
+JQCollector is a collection of DSA questions, ranging from beginner to advanced levels. Whether you're brushing up on foundational concepts or tackling challenging algorithmic problems, this repository serves as a resource hub for students, and coding enthusiasts.
 
  # 🏗 Structure
 
  1.  Pseudocode and Basic Questions.
  2.  Basic Question
  3.  Conditionals and loop statement 
- 4.  Array/- Questions related to array manipulation and optimization.
+ 5.  Function
+ 6.  Array
+ 7.  String
+ 8.  Recursion
 
  # 🚀 How to Use
 
 1. Explore the categorized folders for specific topics
 2. Contribute by adding new questions and solutions.
 3. Discuss and share insights by opening issues or discussions.
-4. Practice regularly for coding interviews or competitions.
+4. Practice regularly for coding or competitions.
 
 # 💡 Contribution
  
